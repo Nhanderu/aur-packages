@@ -1,6 +1,7 @@
 # AUR packages
 
-[![License][badge-1-img]][badge-1-link]
+![In Progress][badge-1-img]
+[![License][badge-2-img]][badge-2-link]
 
 Personal AUR packages for Arch.
 
@@ -36,5 +37,6 @@ additional terms or conditions.
 [4]: https://github.com/Nhanderu/gridt
 [5]: ./LICENSE
 
-[badge-1-img]: https://img.shields.io/github/license/Nhanderu/aur-packages?style=flat-square
-[badge-1-link]: https://github.com/Nhanderu/aur-packages/blob/master/LICENSE
+[badge-1-img]: https://img.shields.io/badge/code-in_progress-important?style=flat-square
+[badge-2-img]: https://img.shields.io/github/license/Nhanderu/aur-packages?style=flat-square
+[badge-2-link]: https://github.com/Nhanderu/aur-packages/blob/master/LICENSE
